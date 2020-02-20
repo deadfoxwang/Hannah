@@ -14,7 +14,7 @@
 | [來説普通話](http://ephpth.ephhk.com/student)   | [iLongman網站](http://prd1.pearson.com.hk)    |
 | [咨詢科技科課本電子平臺](http://www.drpcfamily.com.hk) | [OXFORD](http://www.oupchina.com.hk) |
 | [Planetii Math World](http://www.planetii.com) | [樂思自學診斷平臺(中文科)](http://4d.pan-lloyds.com) |
-| [嘉諾撒小學](http://www.cpswts.edu.hk/)  |   |
+| [嘉諾撒小學](http://www.cpswts.edu.hk/)  | [内聯網系統](http://www.cpswts.edu.hk/it-school/)  |
 
 
 # Horace Wang
