@@ -2,6 +2,9 @@
 ### [停課期間嘉小最新消息](https://sites.google.com/cpswts.edu.hk/homelearning/%E9%A6%96%E9%A0%81) ***通告***
 ### [停課不停學](https://sites.google.com/cpswts.edu.hk/homelearning/%E5%81%9C%E8%AA%B2%E4%B8%8D%E5%81%9C%E5%AD%B8) ***功課***
 
+##### 2月21日之前的功課
+[2月5日](https://drive.google.com/file/d/1fiabHgZohiH9Ai81_X__N-e_CFspgnkv/view?usp=sharing) / [2月6日](https://docs.google.com/document/d/15zGgxOFLKlhomiRpWLhZBUyyxmJt7X-bVgV0WVO0Yj8/edit?usp=sharing) / [2月7日](https://docs.google.com/document/d/1PrIja3LwLjvLAyn2KN1SiigKdLWWVB0n6ew77BoUnYE/edit?usp=sharing) / [2月10日](https://docs.google.com/document/d/1L1Kd_DitbUIR2l60V-Q8wV6TRqix_84coNvVVCrU8z8/edit?usp=sharing) / [2月11日](https://docs.google.com/document/d/1niyi1gIt64Ns-ovFH-9_WBlIFVqlrwvH32iEXAcfL-I/edit?usp=sharing) / [2月12日](https://docs.google.com/document/d/11sR4jWfYxqHHHAOWgFWWN3mCDP-5Mav18nbXEZmd5yU/edit?usp=sharing) / [2月13日](https://docs.google.com/document/d/1dW60EVpp-F9gT9L8KPVIB3QSYnW5GaMCTcqXtAEpRsw/edit?usp=sharing) / [2月14日](https://docs.google.com/document/d/1TMQIG40iqOv8hyh_0HRo0btTBKZUzLOPQMDwPOQEpBs/edit?usp=sharing) / [2月17日](https://docs.google.com/document/d/1BTKnwOxqic4A_JvjPXXY30iJieTYeQkgeysisMVRMTE/edit?usp=sharing) / [2月18日](https://docs.google.com/document/d/1Izu8sY_YQHPf6BwnDhMeNQeQ3QdAkamDxJlPEctij78/edit?usp=sharing) / [2月19日](https://docs.google.com/document/d/17BIASu2_HYgMq2ntyJVQJYLGtzZaD39W70OyiaavtXA/edit?usp=sharing) / [2月20日](https://docs.google.com/document/d/1F-pknhTR6FwhKK4VqRAVZnqTBV4l3XemYvRs7SYMXJY/edit)
+
 #### [嘉諾撒小學](http://www.cpswts.edu.hk/) ***學校網站***
 
 # Horace Wang
