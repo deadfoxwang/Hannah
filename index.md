@@ -8,6 +8,8 @@
 
 [中文科網站登入方法](https://drive.google.com/file/d/1cl-efs7zY74G60bDK9wmsLHfnBD73WuY/view?usp=sharing) / [英文科OXFORD登入方法](https://drive.google.com/file/d/1elgShm44lu-JsIX3hEN532ZS04mnsJRQ/view?usp=sharing) / [常識科E-SMART登入網站](https://www.google.com/url?q=https%3A%2F%2Febookweb.ephhk.com%2Flogin.php&sa=D&sntz=1&usg=AFQjCNHGDR_VJ3ghFq0Otx65SoR_eCgvQA)
 
+[小學 學習資源一覽](https://www.oupchina.com.hk/zh/self-learning-for-parents#pri)
+
 | 常用網站列表 | `賬號信息在手冊`                   |
 | ------------- | ------------------------------ |
 | [我愛學語文及快樂閲讀花園](http://ephchinese.ephhk.com)      |  [今日常識](http://ephgs.ephhk.com/student)       |
@@ -22,5 +24,7 @@
 ### [延期復課各級班學習資源（第二週17/2-21/2）](https://drive.google.com/drive/folders/1qgrWJR5EfSD-vuZkVYcXKwbHgg-9FOdp) ***教材***
 
 ### [其他網上學習資源（OXFORD）](http://www.twghltykkg.edu.hk/index.php/section/notice/1761_4888)
+
+### [幼稚園／幼兒園 學習資源一覽](https://www.oupchina.com.hk/zh/self-learning-for-parents#kg)
 
 #### [東華三院黎鄧潤球幼稚園](http://www.twghltykkg.edu.hk/)  ***學校網站***
