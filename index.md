@@ -1,12 +1,6 @@
 # Hannah Wang
 ### [停課期間嘉小最新消息](https://sites.google.com/cpswts.edu.hk/homelearning/%E9%A6%96%E9%A0%81) ***通告***
 ### [停課不停學](https://sites.google.com/cpswts.edu.hk/homelearning/%E5%81%9C%E8%AA%B2%E4%B8%8D%E5%81%9C%E5%AD%B8) ***功課***
-## [CPS ETVonline](https://hk.cherrypickslearning.com/student/login) ***網上教學短片***
->1) 學校代碼：CPSWTS-909 
->2) 班別(e.g. 4A)
->3) 學號(e.g. 01)
-
-
 #### 昔日嘉小停課期家課欄
 
 >[2月24日](https://docs.google.com/document/d/1ac2VGHaspVyp7sW__zeuFm168FgV9HGZ5uuY09stMVM/edit) 
@@ -17,6 +11,9 @@
 
 > [~~2月5日~~](https://drive.google.com/file/d/1fiabHgZohiH9Ai81_X__N-e_CFspgnkv/view?usp=sharing) / [~~2月6日~~](https://docs.google.com/document/d/15zGgxOFLKlhomiRpWLhZBUyyxmJt7X-bVgV0WVO0Yj8/edit?usp=sharing) / [~~2月7日~~](https://docs.google.com/document/d/1PrIja3LwLjvLAyn2KN1SiigKdLWWVB0n6ew77BoUnYE/edit?usp=sharing) 
 
+### [CPS ETVonline (WK 1)](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-1)
+#### [影片超連結](https://hk.cherrypickslearning.com/student/login) ***網上教學短片***
+>1) 學校代碼：CPSWTS-909 ;2) 班別(e.g. 4A) ;3) 學號(e.g. 01)
 
 [中文科網站登入方法](https://drive.google.com/file/d/1cl-efs7zY74G60bDK9wmsLHfnBD73WuY/view?usp=sharing) / [英文科OXFORD登入方法](https://drive.google.com/file/d/1elgShm44lu-JsIX3hEN532ZS04mnsJRQ/view?usp=sharing) / [常識科E-SMART登入網站](https://www.google.com/url?q=https%3A%2F%2Febookweb.ephhk.com%2Flogin.php&sa=D&sntz=1&usg=AFQjCNHGDR_VJ3ghFq0Otx65SoR_eCgvQA)
 
