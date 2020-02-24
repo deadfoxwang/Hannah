@@ -1,6 +1,11 @@
 # Hannah Wang
 ### [停課期間嘉小最新消息](https://sites.google.com/cpswts.edu.hk/homelearning/%E9%A6%96%E9%A0%81) ***通告***
 ### [停課不停學](https://sites.google.com/cpswts.edu.hk/homelearning/%E5%81%9C%E8%AA%B2%E4%B8%8D%E5%81%9C%E5%AD%B8) ***功課***
+## [CPS ETVonline](https://hk.cherrypickslearning.com/student/login) ***網上教學短片***
+>1) 學校代碼：CPSWTS-909 
+>2) 班別(e.g. 4A)
+>3) 學號(e.g. 01)
+
 
 #### 昔日嘉小停課期家課欄
 
