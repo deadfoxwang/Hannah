@@ -34,6 +34,8 @@
 ### [延期復課各級班學習資源（第一週10/2-14/2）](https://drive.google.com/drive/folders/1pbIAT47CITXiu3lYOfqh5ZXQnkgu3-ZH) ***教材***
 ### [延期復課各級班學習資源（第二週17/2-21/2）](https://drive.google.com/drive/folders/1qgrWJR5EfSD-vuZkVYcXKwbHgg-9FOdp) ***教材***
 
+> [其他網上學習資源（中電）](http://www.twghltykkg.edu.hk/index.php/section/notice/1761_4950)
+
 > [其他網上學習資源（OXFORD）](http://www.twghltykkg.edu.hk/index.php/section/notice/1761_4888)
 
 > [幼稚園／幼兒園 學習資源一覽](https://www.oupchina.com.hk/zh/self-learning-for-parents#kg)
