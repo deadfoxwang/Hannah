@@ -13,7 +13,9 @@
 
 ### [CPS ETVonline (WK 1)](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-1)
 #### [影片超連結](https://hk.cherrypickslearning.com/student/login) ***網上教學短片***
->1) 學校代碼：CPSWTS-909 ;2) 班別(e.g. 4A) ;3) 學號(e.g. 01)
+> (1) 學校代碼：CPSWTS-909 
+> (2) 班別(e.g. 4A) 
+> (3) 學號(e.g. 01)
 
 [中文科網站登入方法](https://drive.google.com/file/d/1cl-efs7zY74G60bDK9wmsLHfnBD73WuY/view?usp=sharing) / [英文科OXFORD登入方法](https://drive.google.com/file/d/1elgShm44lu-JsIX3hEN532ZS04mnsJRQ/view?usp=sharing) / [常識科E-SMART登入網站](https://www.google.com/url?q=https%3A%2F%2Febookweb.ephhk.com%2Flogin.php&sa=D&sntz=1&usg=AFQjCNHGDR_VJ3ghFq0Otx65SoR_eCgvQA)
 
