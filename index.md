@@ -31,8 +31,11 @@
 
 
 # Horace Wang
-### [延期復課各級班學習資源（第一週10/2-14/2）](https://drive.google.com/drive/folders/1pbIAT47CITXiu3lYOfqh5ZXQnkgu3-ZH) ***教材***
+### [延期復課各級班學習資源（第三週24/2-28/2）](https://drive.google.com/drive/folders/1fxQs3Vfj_QHbxjulcZiKm8xXqZfEmTep) ***教材***
 ### [延期復課各級班學習資源（第二週17/2-21/2）](https://drive.google.com/drive/folders/1qgrWJR5EfSD-vuZkVYcXKwbHgg-9FOdp) ***教材***
+### [延期復課各級班學習資源（第一週10/2-14/2）](https://drive.google.com/drive/folders/1pbIAT47CITXiu3lYOfqh5ZXQnkgu3-ZH) ***教材***
+
+> [學校最新消息](http://www.twghltykkg.edu.hk/index.php/Section/notice/1761)
 
 > [其他網上學習資源（中電）](http://www.twghltykkg.edu.hk/index.php/section/notice/1761_4950)
 
