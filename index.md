@@ -1,5 +1,5 @@
 # Hannah Wang
-* * *
+
 ### [停課期間嘉小最新消息](https://sites.google.com/cpswts.edu.hk/homelearning/%E9%A6%96%E9%A0%81) ***通告***
 ### [停課不停學](https://sites.google.com/cpswts.edu.hk/homelearning/%E5%81%9C%E8%AA%B2%E4%B8%8D%E5%81%9C%E5%AD%B8) ***功課***
 #### 昔日嘉小停課期家課欄
@@ -13,15 +13,21 @@
 > [~~2月5日~~](https://drive.google.com/file/d/1fiabHgZohiH9Ai81_X__N-e_CFspgnkv/view?usp=sharing) / [~~2月6日~~](https://docs.google.com/document/d/15zGgxOFLKlhomiRpWLhZBUyyxmJt7X-bVgV0WVO0Yj8/edit?usp=sharing) / [~~2月7日~~](https://docs.google.com/document/d/1PrIja3LwLjvLAyn2KN1SiigKdLWWVB0n6ew77BoUnYE/edit?usp=sharing) 
 
 [中文科網站登入方法](https://drive.google.com/file/d/1cl-efs7zY74G60bDK9wmsLHfnBD73WuY/view?usp=sharing) / [英文科OXFORD登入方法](https://drive.google.com/file/d/1elgShm44lu-JsIX3hEN532ZS04mnsJRQ/view?usp=sharing) / [常識科E-SMART登入網站](https://www.google.com/url?q=https%3A%2F%2Febookweb.ephhk.com%2Flogin.php&sa=D&sntz=1&usg=AFQjCNHGDR_VJ3ghFq0Otx65SoR_eCgvQA)
+
 * * *
+
 ### [CPS ETVonline (WK 1)](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-1)
 #### [影片超連結](https://hk.cherrypickslearning.com/student/login) ***網上教學短片***
 > (1) 學校代碼：CPSWTS-909 
 > (2) 班別(e.g. 4A) 
 > (3) 學號(e.g. 01)
+
 * * *
+
 [小學 學習資源一覽(OUPCHINA)](https://www.oupchina.com.hk/zh/self-learning-for-parents#pri)
+
 * * *
+
 | 常用網站列表 | `賬號信息在手冊`                   |
 | ------------- | ------------------------------ |
 | [我愛學語文及快樂閲讀花園](http://ephchinese.ephhk.com)      |  [今日常識](http://ephgs.ephhk.com/student)       |
@@ -32,21 +38,27 @@
 
 
 # Horace Wang
-* * *
+
 ### [延期復課各級班學習資源（第三週24/2-28/2）](https://drive.google.com/drive/folders/1fxQs3Vfj_QHbxjulcZiKm8xXqZfEmTep) ***教材***
 ### [延期復課各級班學習資源（第二週17/2-21/2）](https://drive.google.com/drive/folders/1qgrWJR5EfSD-vuZkVYcXKwbHgg-9FOdp) ***教材***
 ### [延期復課各級班學習資源（第一週10/2-14/2）](https://drive.google.com/drive/folders/1pbIAT47CITXiu3lYOfqh5ZXQnkgu3-ZH) ***教材***
+
 * * *
+
 ### 抗疫小勇士  ***網上故事劇場***
 > [第一集 陪伴是最好的禮物（24.2.2020）](https://www.youtube.com/watch?v=e6G7hYcA3RM&list=PL58N6oEQRdvydo46dgG3gbF0h6Pp_sytG)
 
 > [第二集 我和你的「驚驚」歷險記 (25.2.2020)](https://www.youtube.com/watch?v=cBHfOyxPeEg&list=PL58N6oEQRdvydo46dgG3gbF0h6Pp_sytG&index=2)
+
 * * *
+
 ### 身心抗疫
 > [身心抗疫-家長篇](http://mykiddie.ephhk.com/upload/0195/notice_attachment/245920957511870208/4ad935e733653e308891eae30c8a9138.pdf)
 
 > [身心抗疫-親子活動篇](http://mykiddie.ephhk.com/upload/0195/notice_attachment/245921653508020053/ac7b6415491d0340a539e42a12378caa.pdf)
+
 * * *
+
 ### Other
 > [學校最新消息](http://www.twghltykkg.edu.hk/index.php/Section/notice/1761)
 
