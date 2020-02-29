@@ -33,6 +33,8 @@ description: 課堂無邊界 停課不停學
 
 [小學 學習資源一覽(OUPCHINA)](https://www.oupchina.com.hk/zh/self-learning-for-parents#pri)
 
+[3000+ Words for writing](http://3000wfw.pearson.com.hk/index.php?section=1)
+
 #### 「時間學習」
 > [視頻2](https://www.hkedcity.net/etv/resource/150038088) /  [視頻1](https://www.hkedcity.net/etv/resource/1219972369)
 
