@@ -8,7 +8,7 @@ description: 課堂無邊界 停課不停學
 * * *
 
 ### [停課期間嘉小最新消息](https://sites.google.com/cpswts.edu.hk/homelearning/%E9%A6%96%E9%A0%81) ***通告***
-### [停課不停學](https://sites.google.com/cpswts.edu.hk/homelearning/%E5%81%9C%E8%AA%B2%E4%B8%8D%E5%81%9C%E5%AD%B8) ***功課***
+### [停課不停學](https://sites.google.com/cpswts.edu.hk/homelearning/%E5%81%9C%E8%AA%B2%E4%B8%8D%E5%81%9C%E5%AD%B8) ***功課***  /  [CPS ETVonline (WK 2)](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-2) ***网上视频***
 #### 昔日嘉小停課期家課欄
 
 > [3月2日](https://docs.google.com/document/d/1jP13_ANN57f6Shh9sPdnktcJORiqpwb3SrqlPdLXk18/edit)
@@ -25,7 +25,7 @@ description: 課堂無邊界 停課不停學
 
 * * *
 
-### [CPS ETVonline (WK 2)](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-2) /  [CPS ETVonline (WK 1)](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-1)
+### [~~CPS ETVonline (WK 1)~~](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-1)
 #### [影片超連結](https://hk.cherrypickslearning.com/student/login) ***網上教學短片***
 > (1) 學校代碼：CPSWTS-909 
 > (2) 班別(e.g. 4A) 
