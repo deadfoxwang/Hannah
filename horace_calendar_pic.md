@@ -1,3 +1,8 @@
+---
+title: Back to school
+description: 《親子抗「疫」曆》
+---
+
 ### A《親子抗「疫」曆》第一週：家長自我關懷(1)
 ![](http://mykiddie.ephhk.com/upload/0195/notice_attachment/246608938644174192/6c52e49eed9255a03d7261f4fd3fc38a.jpg)
 ![](http://mykiddie.ephhk.com/upload/0195/notice_attachment/246608938644174192/0c7cfd000dae3f96fb17bbda464ea217.jpg)
