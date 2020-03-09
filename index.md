@@ -12,10 +12,12 @@ description: 課堂無邊界 停課不停學
 * * *
 
 ### [停課期間嘉小最新消息](https://sites.google.com/cpswts.edu.hk/homelearning/%E9%A6%96%E9%A0%81) ***通告***
-### [停課不停學](https://sites.google.com/cpswts.edu.hk/homelearning/%E5%81%9C%E8%AA%B2%E4%B8%8D%E5%81%9C%E5%AD%B8) ***功課***  /  [CPS ETVonline (WK 2)](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-2) ***网上视频***
+### [停課不停學](https://sites.google.com/cpswts.edu.hk/homelearning/%E5%81%9C%E8%AA%B2%E4%B8%8D%E5%81%9C%E5%AD%B8) ***功課***  /  [CPS ETVonline (WK 3)](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-3) ***网上视频***
 #### 昔日嘉小停課期家課欄
 
-> [3月2日](https://docs.google.com/document/d/1jP13_ANN57f6Shh9sPdnktcJORiqpwb3SrqlPdLXk18/edit) / [3月3日](https://docs.google.com/document/d/1Bww7v4-beAfwCV7CbHmh18nIcXtsq8068VNmxRc_LZQ/edit) / [3月4日](https://docs.google.com/document/d/1iUmdHM7rFCU4EmriUOCaxixybwKycqzsXVzumQM1h7Y/edit) / [3月5日](https://docs.google.com/document/d/1WjQ-plc64w1LdkG65XjTLjgnE2vAzEeYWEQrZDrmx4o/edit) / [3月6日](https://docs.google.com/document/d/1jVHENaGvb0-R6JEIszVdaKvVaOMh169MPuZzJ8tH_TI/edit)
+> [3月9日](https://docs.google.com/document/d/1t9vDCkhinW6k7fnI7P4tNKCPCSRuicnY5oT2TkihTr0/edit) 
+
+> [~~3月2日~~](https://docs.google.com/document/d/1jP13_ANN57f6Shh9sPdnktcJORiqpwb3SrqlPdLXk18/edit) / [~~3月3日~~](https://docs.google.com/document/d/1Bww7v4-beAfwCV7CbHmh18nIcXtsq8068VNmxRc_LZQ/edit) / [~~3月4日~~](https://docs.google.com/document/d/1iUmdHM7rFCU4EmriUOCaxixybwKycqzsXVzumQM1h7Y/edit) / [~~3月5日~~](https://docs.google.com/document/d/1WjQ-plc64w1LdkG65XjTLjgnE2vAzEeYWEQrZDrmx4o/edit) / [~~3月6日~~](https://docs.google.com/document/d/1jVHENaGvb0-R6JEIszVdaKvVaOMh169MPuZzJ8tH_TI/edit)
 
 >[~~2月24日~~](https://docs.google.com/document/d/1ac2VGHaspVyp7sW__zeuFm168FgV9HGZ5uuY09stMVM/edit)  / [~~2月25日~~](https://docs.google.com/document/d/1i6NkfSIvCXwsd5P9voBMETdOi4AaxLwljhZq-oXMAFE/edit)  / [~~2月26日~~](https://docs.google.com/document/d/1NptGygHf7Aq-0E_ixlswafuKeietvTHCViRMI6iKS3o/edit)  / [~~2月27日~~](https://docs.google.com/document/d/1PHWC_ub-P5-eITGiOGIezoDH2Z27AxCDxskiyDWgtaQ/edit)  / [~~2月28日~~](https://docs.google.com/document/d/15aKuHnxYQB_1YRzejgiU5U1pvT3Gm3KHfENUgNEdWOU/edit) 
 
@@ -30,6 +32,7 @@ description: 課堂無邊界 停課不停學
 * * *
 
 ### [~~CPS ETVonline (WK 1)~~](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-1)
+### [~~CPS ETVonline (WK 2)~~](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-2)
 #### [影片超連結](https://hk.cherrypickslearning.com/student/login) ***網上教學短片***
 > (1) 學校代碼：CPSWTS-909 
 > (2) 班別(e.g. 4A) 
