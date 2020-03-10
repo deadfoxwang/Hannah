@@ -15,13 +15,13 @@ description: 課堂無邊界 停課不停學
 ### [停課不停學](https://sites.google.com/cpswts.edu.hk/homelearning/%E5%81%9C%E8%AA%B2%E4%B8%8D%E5%81%9C%E5%AD%B8) ***功課***  /  [CPS ETVonline (WK 3)](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-3) ***网上视频***
 #### 昔日嘉小停課期家課欄
 
-> [3月9日](https://docs.google.com/document/d/1t9vDCkhinW6k7fnI7P4tNKCPCSRuicnY5oT2TkihTr0/edit) 
+> [3月9日](https://docs.google.com/document/d/1t9vDCkhinW6k7fnI7P4tNKCPCSRuicnY5oT2TkihTr0/edit)  /  [3月10日](https://docs.google.com/document/d/12l-FCDTwd_rB6StqqxGjk6ecq2nm6_CfIsN2ISReUiw/edit) 
 
 > [~~3月2日~~](https://docs.google.com/document/d/1jP13_ANN57f6Shh9sPdnktcJORiqpwb3SrqlPdLXk18/edit) / [~~3月3日~~](https://docs.google.com/document/d/1Bww7v4-beAfwCV7CbHmh18nIcXtsq8068VNmxRc_LZQ/edit) / [~~3月4日~~](https://docs.google.com/document/d/1iUmdHM7rFCU4EmriUOCaxixybwKycqzsXVzumQM1h7Y/edit) / [~~3月5日~~](https://docs.google.com/document/d/1WjQ-plc64w1LdkG65XjTLjgnE2vAzEeYWEQrZDrmx4o/edit) / [~~3月6日~~](https://docs.google.com/document/d/1jVHENaGvb0-R6JEIszVdaKvVaOMh169MPuZzJ8tH_TI/edit)
 
 >[~~2月24日~~](https://docs.google.com/document/d/1ac2VGHaspVyp7sW__zeuFm168FgV9HGZ5uuY09stMVM/edit)  / [~~2月25日~~](https://docs.google.com/document/d/1i6NkfSIvCXwsd5P9voBMETdOi4AaxLwljhZq-oXMAFE/edit)  / [~~2月26日~~](https://docs.google.com/document/d/1NptGygHf7Aq-0E_ixlswafuKeietvTHCViRMI6iKS3o/edit)  / [~~2月27日~~](https://docs.google.com/document/d/1PHWC_ub-P5-eITGiOGIezoDH2Z27AxCDxskiyDWgtaQ/edit)  / [~~2月28日~~](https://docs.google.com/document/d/15aKuHnxYQB_1YRzejgiU5U1pvT3Gm3KHfENUgNEdWOU/edit) 
 
-> [2月17日](https://docs.google.com/document/d/1BTKnwOxqic4A_JvjPXXY30iJieTYeQkgeysisMVRMTE/edit?usp=sharing) / [2月18日](https://docs.google.com/document/d/1Izu8sY_YQHPf6BwnDhMeNQeQ3QdAkamDxJlPEctij78/edit?usp=sharing) / [2月19日](https://docs.google.com/document/d/17BIASu2_HYgMq2ntyJVQJYLGtzZaD39W70OyiaavtXA/edit?usp=sharing) / [~~2月20日~~](https://docs.google.com/document/d/1F-pknhTR6FwhKK4VqRAVZnqTBV4l3XemYvRs7SYMXJY/edit) / [~~2月21日~~](https://docs.google.com/document/d/1cQc_hx56SAo_LhxzN9KzzedRMHhdFh62cz69urPeoF8/edit)
+> [~~2月17日~~](https://docs.google.com/document/d/1BTKnwOxqic4A_JvjPXXY30iJieTYeQkgeysisMVRMTE/edit?usp=sharing) / [2月18日](https://docs.google.com/document/d/1Izu8sY_YQHPf6BwnDhMeNQeQ3QdAkamDxJlPEctij78/edit?usp=sharing) / [2月19日](https://docs.google.com/document/d/17BIASu2_HYgMq2ntyJVQJYLGtzZaD39W70OyiaavtXA/edit?usp=sharing) / [~~2月20日~~](https://docs.google.com/document/d/1F-pknhTR6FwhKK4VqRAVZnqTBV4l3XemYvRs7SYMXJY/edit) / [~~2月21日~~](https://docs.google.com/document/d/1cQc_hx56SAo_LhxzN9KzzedRMHhdFh62cz69urPeoF8/edit)
 
 > [~~2月10日~~](https://docs.google.com/document/d/1L1Kd_DitbUIR2l60V-Q8wV6TRqix_84coNvVVCrU8z8/edit?usp=sharing) / [~~2月11日~~](https://docs.google.com/document/d/1niyi1gIt64Ns-ovFH-9_WBlIFVqlrwvH32iEXAcfL-I/edit?usp=sharing) / [~~2月12日~~](https://docs.google.com/document/d/11sR4jWfYxqHHHAOWgFWWN3mCDP-5Mav18nbXEZmd5yU/edit?usp=sharing) / [~~2月13日~~](https://docs.google.com/document/d/1dW60EVpp-F9gT9L8KPVIB3QSYnW5GaMCTcqXtAEpRsw/edit?usp=sharing) / [~~2月14日~~](https://docs.google.com/document/d/1TMQIG40iqOv8hyh_0HRo0btTBKZUzLOPQMDwPOQEpBs/edit?usp=sharing) 
 
@@ -71,6 +71,7 @@ description: 課堂無邊界 停課不停學
 ### [教育資訊台_KGTV](https://kgtv.ephhk.com/)
 ### [《親子抗「疫」曆》](/horace_calendar_pic.html)
 
+### [延期復課各級班學習資源（第五週9/3-13/3）](https://drive.google.com/drive/folders/116q-rQHelMb-4Dk1txj-oIbvDkmjHOu5)
 ### [延期復課各級班學習資源（第四週2/3-6/3）](https://drive.google.com/drive/folders/16AY-kkkFEzgvzVbRMtJW1zjmzmZFKCSk) ***教材***
 ### [延期復課各級班學習資源（第三週24/2-28/2）](https://drive.google.com/drive/folders/1fxQs3Vfj_QHbxjulcZiKm8xXqZfEmTep) ***教材***
 ### [延期復課各級班學習資源（第二週17/2-21/2）](https://drive.google.com/drive/folders/1qgrWJR5EfSD-vuZkVYcXKwbHgg-9FOdp) ***教材***
