@@ -12,7 +12,7 @@ description: 課堂無邊界 停課不停學
 * * *
 
 ### [停課期間嘉小最新消息](https://sites.google.com/cpswts.edu.hk/homelearning/%E9%A6%96%E9%A0%81) ***通告***
-### [停課不停學](https://sites.google.com/cpswts.edu.hk/homelearning/%E5%81%9C%E8%AA%B2%E4%B8%8D%E5%81%9C%E5%AD%B8) ***功課***  /  [CPS ETVonline (WK 3)](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-3) ***网上视频***
+### [停課不停學](https://sites.google.com/cpswts.edu.hk/homelearning/%E5%81%9C%E8%AA%B2%E4%B8%8D%E5%81%9C%E5%AD%B8) ***功課***
 #### 昔日嘉小停課期家課欄
 
 > [3月9日](https://docs.google.com/document/d/1t9vDCkhinW6k7fnI7P4tNKCPCSRuicnY5oT2TkihTr0/edit)  /  [3月10日](https://docs.google.com/document/d/12l-FCDTwd_rB6StqqxGjk6ecq2nm6_CfIsN2ISReUiw/edit)   /  [3月11日](https://docs.google.com/document/d/1_xONg46zFXALEUb_acP1sVbgabIMQSonEBEZmOLAQjA/edit) 
@@ -31,6 +31,7 @@ description: 課堂無邊界 停課不停學
 
 * * *
 
+### [CPS ETVonline (WK 3)](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-3) ***网上视频***
 ### [~~CPS ETVonline (WK 1)~~](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-1)
 ### [~~CPS ETVonline (WK 2)~~](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-2)
 #### [影片超連結](https://hk.cherrypickslearning.com/student/login) ***網上教學短片***
@@ -71,7 +72,7 @@ description: 課堂無邊界 停課不停學
 ### [教育資訊台_KGTV](https://kgtv.ephhk.com/)
 ### [《親子抗「疫」曆》](/horace_calendar_pic.html)
 
-### [延期復課各級班學習資源（第五週9/3-13/3）](https://drive.google.com/drive/folders/116q-rQHelMb-4Dk1txj-oIbvDkmjHOu5)
+### [延期復課各級班學習資源（第五週9/3-13/3）](https://drive.google.com/drive/folders/116q-rQHelMb-4Dk1txj-oIbvDkmjHOu5) ***教材***
 ### [延期復課各級班學習資源（第四週2/3-6/3）](https://drive.google.com/drive/folders/16AY-kkkFEzgvzVbRMtJW1zjmzmZFKCSk) ***教材***
 ### [延期復課各級班學習資源（第三週24/2-28/2）](https://drive.google.com/drive/folders/1fxQs3Vfj_QHbxjulcZiKm8xXqZfEmTep) ***教材***
 ### [延期復課各級班學習資源（第二週17/2-21/2）](https://drive.google.com/drive/folders/1qgrWJR5EfSD-vuZkVYcXKwbHgg-9FOdp) ***教材***
