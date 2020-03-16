@@ -30,3 +30,9 @@ description: 《親子抗「疫」曆》
 ![](http://mykiddie.ephhk.com/upload/0195/notice_attachment/247124137099164103/608cbf1759d8d70ed2bc9565d41bf80b.jpg)
 
 
+### C《親子抗「疫」曆》第三週︰親子慈心篇2
+![](http://mykiddie.ephhk.com/upload/0195/notice_attachment/247385217510137030/33628d35cea1fad6754b0a75b72de029.jpg)
+![](http://mykiddie.ephhk.com/upload/0195/notice_attachment/247385217510137030/6074ccbdf3eec2d9769fcc475cd7ab73.jpg)
+![](http://mykiddie.ephhk.com/upload/0195/notice_attachment/247385217510137030/a222e5fb2f8c54680ccbdc03840ffce6.jpg)
+
+
