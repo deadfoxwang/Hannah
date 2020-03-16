@@ -36,3 +36,6 @@ description: 《親子抗「疫」曆》
 ![](http://mykiddie.ephhk.com/upload/0195/notice_attachment/247385217510137030/a222e5fb2f8c54680ccbdc03840ffce6.jpg)
 
 
+### D《親子抗「疫」曆》後記及封底
+![](http://mykiddie.ephhk.com/upload/0195/notice_attachment/247385328663090020/2e7f820e1eabe3d2443cf0a5ed951b74.jpg)
+![](http://mykiddie.ephhk.com/upload/0195/notice_attachment/247385328663090020/4406619f93e9a1e447b28b5f9f0edcda.jpg)
