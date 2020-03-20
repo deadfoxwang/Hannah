@@ -41,6 +41,10 @@ description: 課堂無邊界 停課不停學
 > (1) 學校代碼：CPSWTS-909 
 > (2) 班別(e.g. 4A) 
 > (3) 學號(e.g. 01)
+#### [benchmark閲讀平臺](https://hkebk.benchmarkuniverse.com/) ***網上閲讀平臺***
+> (1) 學校代碼：cpswts 
+> (2) 密碼：369369
+
 
 * * *
 
