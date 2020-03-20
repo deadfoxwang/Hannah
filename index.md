@@ -37,10 +37,12 @@ description: 課堂無邊界 停課不停學
 ### [CPS ETVonline (WK 3)](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-3) 
 ### [CPS ETVonline (WK 2)](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-2)
 ### [CPS ETVonline (WK 1)](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-1)
+
 #### [影片超連結](https://hk.cherrypickslearning.com/student/login) ***網上教學短片***
 > (1) 學校代碼：CPSWTS-909 
 > (2) 班別(e.g. 4A) 
 > (3) 學號(e.g. 01)
+
 #### [benchmark閲讀平臺](https://hkebk.benchmarkuniverse.com/) ***網上閲讀平臺***
 > (1) 學校代碼：cpswts 
 > (2) 密碼：369369
