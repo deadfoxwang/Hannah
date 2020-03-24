@@ -33,6 +33,7 @@ description: 課堂無邊界 停課不停學
 > [~~2月10日~~](https://docs.google.com/document/d/1L1Kd_DitbUIR2l60V-Q8wV6TRqix_84coNvVVCrU8z8/edit?usp=sharing) / [~~2月11日~~](https://docs.google.com/document/d/1niyi1gIt64Ns-ovFH-9_WBlIFVqlrwvH32iEXAcfL-I/edit?usp=sharing) / [~~2月12日~~](https://docs.google.com/document/d/11sR4jWfYxqHHHAOWgFWWN3mCDP-5Mav18nbXEZmd5yU/edit?usp=sharing) / [~~2月13日~~](https://docs.google.com/document/d/1dW60EVpp-F9gT9L8KPVIB3QSYnW5GaMCTcqXtAEpRsw/edit?usp=sharing) / [~~2月14日~~](https://docs.google.com/document/d/1TMQIG40iqOv8hyh_0HRo0btTBKZUzLOPQMDwPOQEpBs/edit?usp=sharing) 
 
 > [~~2月5日~~](https://drive.google.com/file/d/1fiabHgZohiH9Ai81_X__N-e_CFspgnkv/view?usp=sharing) / [~~2月6日~~](https://docs.google.com/document/d/15zGgxOFLKlhomiRpWLhZBUyyxmJt7X-bVgV0WVO0Yj8/edit?usp=sharing) / [~~2月7日~~](https://docs.google.com/document/d/1PrIja3LwLjvLAyn2KN1SiigKdLWWVB0n6ew77BoUnYE/edit?usp=sharing) 
+
 </details>
 
 [中文科網站登入方法](https://drive.google.com/file/d/1cl-efs7zY74G60bDK9wmsLHfnBD73WuY/view?usp=sharing) / [英文科OXFORD登入方法](https://drive.google.com/file/d/1elgShm44lu-JsIX3hEN532ZS04mnsJRQ/view?usp=sharing) / [常識科E-SMART登入網站](https://www.google.com/url?q=https%3A%2F%2Febookweb.ephhk.com%2Flogin.php&sa=D&sntz=1&usg=AFQjCNHGDR_VJ3ghFq0Otx65SoR_eCgvQA)
@@ -40,10 +41,16 @@ description: 課堂無邊界 停課不停學
 * * *
 
 ### [CPS ETVonline (WK 5)](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-5) 
-### [CPS ETVonline (WK 4)](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-4) 
-### [CPS ETVonline (WK 3)](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-3) 
-### [CPS ETVonline (WK 2)](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-2)
-### [CPS ETVonline (WK 1)](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-1)
+
+<details>
+<summary>Open - CPS ETVonline</summary>
+  
+#### [CPS ETVonline (WK 4)](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-4) 
+#### [CPS ETVonline (WK 3)](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-3) 
+#### [CPS ETVonline (WK 2)](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-2)
+#### [CPS ETVonline (WK 1)](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-1)
+
+</details>
 
 #### [影片超連結](https://hk.cherrypickslearning.com/student/login) ***網上教學短片***
 > (1) 學校代碼：CPSWTS-909 
