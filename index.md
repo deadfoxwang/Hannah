@@ -13,10 +13,13 @@ description: 課堂無邊界 停課不停學
 
 ### [停課期間嘉小最新消息](https://sites.google.com/cpswts.edu.hk/homelearning/%E9%A6%96%E9%A0%81) ***通告***
 ### [停課不停學](https://sites.google.com/cpswts.edu.hk/homelearning/%E5%81%9C%E8%AA%B2%E4%B8%8D%E5%81%9C%E5%AD%B8) ***功課***
-#### 昔日嘉小停課期家課欄
+#### 本周嘉小停課期家課欄
 
 > [3月23日](https://docs.google.com/document/d/1KxPIzDJIQl084-GBmXd6re7LIppmTrM6uC-H7Fj_Gsc/edit)    /  [3月24日](https://docs.google.com/document/d/1YnVHhgJBqIwE_ABumRcqf7ISHKVZtnKW4CrEfVscwm4/edit)  
 
+<details>
+<summary>展開-昔日嘉小停課期家課欄</summary>
+  
 > [~~3月16日~~](https://docs.google.com/document/d/1dO33u4mnXRwJmM76gT63Jn7nv2GVw2qNAQAFzM8AJB4/edit)    /  [~~3月17日~~](https://docs.google.com/document/d/1mfZ42K74tpiE6EIr-WAOltU4EmaYKhJWtzb0pxAKukc/edit)   /  [~~3月18日~~](https://docs.google.com/document/d/1d-31hXVtNTvuDrCQ-J4LmXdW7IEDA35psnqnL7TjqNY/edit)   /  [~~3月19日~~](https://docs.google.com/document/d/1HipYygJSA5vkvBwceP5FU79q80uKxb51Hr0W1Iuihho/edit)   /  [~~3月20日~~](https://docs.google.com/document/d/10wn6VsXqDpQIg2GKTuYZTQ2TIAJxfWY74STu_DEpsLQ/edit)   
 
 > [~~3月9日~~](https://docs.google.com/document/d/1t9vDCkhinW6k7fnI7P4tNKCPCSRuicnY5oT2TkihTr0/edit)  /  [~~3月10日~~](https://docs.google.com/document/d/12l-FCDTwd_rB6StqqxGjk6ecq2nm6_CfIsN2ISReUiw/edit)   /  [~~3月11日~~](https://docs.google.com/document/d/1_xONg46zFXALEUb_acP1sVbgabIMQSonEBEZmOLAQjA/edit)   /  [~~3月12日~~](https://docs.google.com/document/d/116BE-UlYWc_2yFSyN-Bocn4ty-OI06YMvR9FaiUadFE/edit)   /  [~~3月13日~~](https://docs.google.com/document/d/134gErAvFs_TBFW2nN81JuGtqfmoF8alyTs4OLWo8Yyw/edit) 
@@ -30,6 +33,7 @@ description: 課堂無邊界 停課不停學
 > [~~2月10日~~](https://docs.google.com/document/d/1L1Kd_DitbUIR2l60V-Q8wV6TRqix_84coNvVVCrU8z8/edit?usp=sharing) / [~~2月11日~~](https://docs.google.com/document/d/1niyi1gIt64Ns-ovFH-9_WBlIFVqlrwvH32iEXAcfL-I/edit?usp=sharing) / [~~2月12日~~](https://docs.google.com/document/d/11sR4jWfYxqHHHAOWgFWWN3mCDP-5Mav18nbXEZmd5yU/edit?usp=sharing) / [~~2月13日~~](https://docs.google.com/document/d/1dW60EVpp-F9gT9L8KPVIB3QSYnW5GaMCTcqXtAEpRsw/edit?usp=sharing) / [~~2月14日~~](https://docs.google.com/document/d/1TMQIG40iqOv8hyh_0HRo0btTBKZUzLOPQMDwPOQEpBs/edit?usp=sharing) 
 
 > [~~2月5日~~](https://drive.google.com/file/d/1fiabHgZohiH9Ai81_X__N-e_CFspgnkv/view?usp=sharing) / [~~2月6日~~](https://docs.google.com/document/d/15zGgxOFLKlhomiRpWLhZBUyyxmJt7X-bVgV0WVO0Yj8/edit?usp=sharing) / [~~2月7日~~](https://docs.google.com/document/d/1PrIja3LwLjvLAyn2KN1SiigKdLWWVB0n6ew77BoUnYE/edit?usp=sharing) 
+</details>
 
 [中文科網站登入方法](https://drive.google.com/file/d/1cl-efs7zY74G60bDK9wmsLHfnBD73WuY/view?usp=sharing) / [英文科OXFORD登入方法](https://drive.google.com/file/d/1elgShm44lu-JsIX3hEN532ZS04mnsJRQ/view?usp=sharing) / [常識科E-SMART登入網站](https://www.google.com/url?q=https%3A%2F%2Febookweb.ephhk.com%2Flogin.php&sa=D&sntz=1&usg=AFQjCNHGDR_VJ3ghFq0Otx65SoR_eCgvQA)
 
