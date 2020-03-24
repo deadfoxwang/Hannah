@@ -1,5 +1,4 @@
 theme: jekyll-theme-leap-day
-markdown: CommonMarkGhPages
-commonmark:
-  options: ["SMART", "FOOTNOTES"]
-  extensions: ["strikethrough", "autolink", "tables"]
+markdown: kramdown
+kramdown:
+  parse_block_html: true
