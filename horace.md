@@ -10,6 +10,7 @@ description: 課堂無邊界 停課不停學
 ### [教育資訊台_KGTV](https://kgtv.ephhk.com/)
 ### [《親子抗「疫」曆》](/horace_calendar_pic.html)
 
+### [延期復課各級班學習資源（第七週23/3-27/3）](https://drive.google.com/drive/folders/1yvea53UAKQ-36rmkAHkkqrPoZJBprwi4) ***教材***
 ### [延期復課各級班學習資源（第六週16/3-20/3）](https://drive.google.com/drive/folders/1i6Yy8bDGFCFgyl2iIHtHOdNnpW4tIXWu) ***教材***
 ### [延期復課各級班學習資源（第五週9/3-13/3）](https://drive.google.com/drive/folders/116q-rQHelMb-4Dk1txj-oIbvDkmjHOu5) ***教材***
 ### [延期復課各級班學習資源（第四週2/3-6/3）](https://drive.google.com/drive/folders/16AY-kkkFEzgvzVbRMtJW1zjmzmZFKCSk) ***教材***
