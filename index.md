@@ -15,11 +15,13 @@ description: 課堂無邊界 停課不停學
 ### [停課不停學](https://sites.google.com/cpswts.edu.hk/homelearning/%E5%81%9C%E8%AA%B2%E4%B8%8D%E5%81%9C%E5%AD%B8) ***功課***
 #### 本周嘉小停課期家課欄
 
-> [3月23日](https://docs.google.com/document/d/1KxPIzDJIQl084-GBmXd6re7LIppmTrM6uC-H7Fj_Gsc/edit)    /  [3月24日](https://docs.google.com/document/d/1YnVHhgJBqIwE_ABumRcqf7ISHKVZtnKW4CrEfVscwm4/edit)   /  [3月25日](https://docs.google.com/document/d/13Evs1lJtq1b_FEmA3EYKDkdFxmKAgcxoN8vQFYTOerA/edit)   /  [3月26日](https://docs.google.com/document/d/1-oZXBIArqAnIIKqYhYI6Af5YNQ1JD0dnlSz2UE3MrrI/edit)   /  [3月27日](https://docs.google.com/document/d/1HiweiBuhjbhZWVfU_WSp-bf4FqzRHaoasAZj9tHQB9Y/edit)  
+> [3月30日](https://docs.google.com/document/d/1uNH-zkgmZWlnmeTFkhhJ9HZOA2EmnYlTW4gGW4AcuvI/edit)
 
 <details>
 <summary>展開-昔日嘉小停課期家課欄</summary>
   
+> [3月23日](https://docs.google.com/document/d/1KxPIzDJIQl084-GBmXd6re7LIppmTrM6uC-H7Fj_Gsc/edit)    /  [3月24日](https://docs.google.com/document/d/1YnVHhgJBqIwE_ABumRcqf7ISHKVZtnKW4CrEfVscwm4/edit)   /  [3月25日](https://docs.google.com/document/d/13Evs1lJtq1b_FEmA3EYKDkdFxmKAgcxoN8vQFYTOerA/edit)   /  [3月26日](https://docs.google.com/document/d/1-oZXBIArqAnIIKqYhYI6Af5YNQ1JD0dnlSz2UE3MrrI/edit)   /  [3月27日](https://docs.google.com/document/d/1HiweiBuhjbhZWVfU_WSp-bf4FqzRHaoasAZj9tHQB9Y/edit)  
+
 > [~~3月16日~~](https://docs.google.com/document/d/1dO33u4mnXRwJmM76gT63Jn7nv2GVw2qNAQAFzM8AJB4/edit)    /  [~~3月17日~~](https://docs.google.com/document/d/1mfZ42K74tpiE6EIr-WAOltU4EmaYKhJWtzb0pxAKukc/edit)   /  [~~3月18日~~](https://docs.google.com/document/d/1d-31hXVtNTvuDrCQ-J4LmXdW7IEDA35psnqnL7TjqNY/edit)   /  [~~3月19日~~](https://docs.google.com/document/d/1HipYygJSA5vkvBwceP5FU79q80uKxb51Hr0W1Iuihho/edit)   /  [~~3月20日~~](https://docs.google.com/document/d/10wn6VsXqDpQIg2GKTuYZTQ2TIAJxfWY74STu_DEpsLQ/edit)   
 
 > [~~3月9日~~](https://docs.google.com/document/d/1t9vDCkhinW6k7fnI7P4tNKCPCSRuicnY5oT2TkihTr0/edit)  /  [~~3月10日~~](https://docs.google.com/document/d/12l-FCDTwd_rB6StqqxGjk6ecq2nm6_CfIsN2ISReUiw/edit)   /  [~~3月11日~~](https://docs.google.com/document/d/1_xONg46zFXALEUb_acP1sVbgabIMQSonEBEZmOLAQjA/edit)   /  [~~3月12日~~](https://docs.google.com/document/d/116BE-UlYWc_2yFSyN-Bocn4ty-OI06YMvR9FaiUadFE/edit)   /  [~~3月13日~~](https://docs.google.com/document/d/134gErAvFs_TBFW2nN81JuGtqfmoF8alyTs4OLWo8Yyw/edit) 
@@ -44,11 +46,12 @@ description: 課堂無邊界 停課不停學
 
 ### [P2 English ](https://sites.google.com/view/p2english-1920/home)
 
-### [CPS ETVonline (WK 5)](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-5) 
+### [CPS ETVonline (WK 6)](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-6) 
 
 <details>
 <summary>Open - CPS ETVonline List</summary>
   
+#### [CPS ETVonline (WK 5)](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-5) 
 #### [CPS ETVonline (WK 4)](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-4) 
 #### [CPS ETVonline (WK 3)](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-3) 
 #### [CPS ETVonline (WK 2)](https://sites.google.com/cpswts.edu.hk/homelearning/cps-etvonlinewk-2)
