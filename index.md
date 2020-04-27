@@ -15,7 +15,7 @@ description: 課堂無邊界 停課不停學
 ### [停課不停學](https://sites.google.com/cpswts.edu.hk/homelearning/%E5%81%9C%E8%AA%B2%E4%B8%8D%E5%81%9C%E5%AD%B8) ***功課***
 #### 本周嘉小停課期家課欄
 
-> [4月20日](https://docs.google.com/document/d/1cKmepmqrsczyILmX9ra_IEv5FTeY8AtjmEtrKQXoGNg/edit)  /   [4月21日](https://docs.google.com/document/d/1f6IYD0UT4Ar6qguhk5lyfhnW5DTU6mez-WAw3V7110Q/edit)  /   [4月22日](https://docs.google.com/document/d/1Kq_OHjvyhop5uyeXABLx56Fhj1ZPxxnNAE26bmELgMc/edit)  /   [4月23日](https://docs.google.com/document/d/1GcmXV-6xxhERdJLlyK1msLOV0l9_rvMSHJezTwfo2AY/edit)  /   [4月24日](https://docs.google.com/document/d/10V0Tb99t1BYTsXOWrLaSj0TDNU4PBwMnD0ZhYTpXnLg/edit)
+> [4月27日](https://docs.google.com/document/d/1hhJwiZjqoZDjQM69lV51LeV-S1TXInGSJZ9rXfV9rvA/edit) 
 
 
 
@@ -24,6 +24,8 @@ description: 課堂無邊界 停課不停學
 <details>
 <summary>展開-昔日嘉小停課期家課欄</summary>
   
+  
+> [4月20日](https://docs.google.com/document/d/1cKmepmqrsczyILmX9ra_IEv5FTeY8AtjmEtrKQXoGNg/edit)  /   [4月21日](https://docs.google.com/document/d/1f6IYD0UT4Ar6qguhk5lyfhnW5DTU6mez-WAw3V7110Q/edit)  /   [4月22日](https://docs.google.com/document/d/1Kq_OHjvyhop5uyeXABLx56Fhj1ZPxxnNAE26bmELgMc/edit)  /   [4月23日](https://docs.google.com/document/d/1GcmXV-6xxhERdJLlyK1msLOV0l9_rvMSHJezTwfo2AY/edit)  /   [4月24日](https://docs.google.com/document/d/10V0Tb99t1BYTsXOWrLaSj0TDNU4PBwMnD0ZhYTpXnLg/edit)
 
 > [3月30日](https://docs.google.com/document/d/1uNH-zkgmZWlnmeTFkhhJ9HZOA2EmnYlTW4gGW4AcuvI/edit)  /  [3月31日](https://docs.google.com/document/d/19cpxOwknYxuBvVzrcCZzL5RNoiIW7wm5Hk91rbtC1-o)  /  [4月1日](https://docs.google.com/document/d/1-dlcatXJBIlRNO6lIYju7AjaZxtPZ_-bCPFkZULrj1A/edit)  /  [4月2日](https://docs.google.com/document/d/1xR80YvOFxpFk4aI3-Wr-TTmYHXjbEY9Z1PHsQAJklzw/edit)  /  [4月3日](https://docs.google.com/document/d/1jSFGyQj0PihZuVK3pSkfglyzF8JBKpLqPm8G4YmLBSg/edit)  /   [復活節健康快樂--家課欄](https://docs.google.com/document/d/1o_UDVnYg1FyF_srET_KM2ZZ9Rv4XEsWaBsUPr9zwzN4/edit)  /  [復活節假期同學家課攔Q&A](https://docs.google.com/document/d/1qD6etQploAecYDrj49hthZY_wkBse6upAqrwB_3QfA4/edit?usp=sharing)  /  [宗教科全校聖周活動](https://docs.google.com/document/d/1EpsoXnEM-Q3eK7k7P2kRptFJe_Abw4Zr28U-4BSJBC8/edit?usp=sharing)
   
