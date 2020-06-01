@@ -15,15 +15,14 @@ description: 課堂無邊界 停課不停學
 ### [停課不停學](https://sites.google.com/cpswts.edu.hk/homelearning/%E5%81%9C%E8%AA%B2%E4%B8%8D%E5%81%9C%E5%AD%B8) ***功課***
 #### 本周嘉小停課期家課欄
 
-> [5月25日](https://docs.google.com/document/d/1JBcp5_eXSUBa5jy_7i36jIxeTb1K79eVfXfucMda1so/edit) / [5月26日](https://docs.google.com/document/d/1F7NKLPh5pMkJmlCl3WMCHzNpGZ8tQ3FBbUPCwH8-w1Q/edit)  / [5月27日](https://docs.google.com/document/d/142zcJfwc_nIjshro3FKwdX7uWHeVnB5ucR_JsdPIgfc/edit)  / [5月28日](https://docs.google.com/document/d/1H_ydzXFVPqc4gOeigl2uplyovL4S-sVkHwzk6Bh49YY/edit)  / [5月29日](https://docs.google.com/document/d/19nXQo7ufIfi9iUPCAOA-DtDQww4TGsKND0E6gfWPsiw/edit) 
-
-
-
-
+> [6月1日](https://docs.google.com/document/d/1WErZNhV3T7KwlUP5qHZzjgCB7mRAvKaHbTIatWGqIoc/edit)
 
 
 <details>
 <summary>展開-昔日嘉小停課期家課欄</summary>
+  
+  > [5月25日](https://docs.google.com/document/d/1JBcp5_eXSUBa5jy_7i36jIxeTb1K79eVfXfucMda1so/edit) / [5月26日](https://docs.google.com/document/d/1F7NKLPh5pMkJmlCl3WMCHzNpGZ8tQ3FBbUPCwH8-w1Q/edit)  / [5月27日](https://docs.google.com/document/d/142zcJfwc_nIjshro3FKwdX7uWHeVnB5ucR_JsdPIgfc/edit)  / [5月28日](https://docs.google.com/document/d/1H_ydzXFVPqc4gOeigl2uplyovL4S-sVkHwzk6Bh49YY/edit)  / [5月29日](https://docs.google.com/document/d/19nXQo7ufIfi9iUPCAOA-DtDQww4TGsKND0E6gfWPsiw/edit) 
+
   
   > [5月18日](https://docs.google.com/document/d/15l5gMsyrroP4JOv0eRnPx1HlK2LQZN-PyGG8BmyaF3k/edit) / [5月19日](https://docs.google.com/document/d/13njRbTY4mC5_dEPqGxZL4YLpVWtqrM4hzs1srcmII_k/edit) / [5月20日](https://docs.google.com/document/d/1Cn7sU2FbiCDmQMPpwnwZcT7Iqe6K1DJCLJlhoQbnx6s/edit) / [5月21日](https://docs.google.com/document/d/11xbiG7kxOSofoc4TPwJQU0BuV1ODa3PbXBxPBkO8ylE/edit) / [5月22日](https://docs.google.com/document/d/1qpydnFJkTeqMjPUFyTYnJv3DA1AWA5f0yV68gYdMuIw/edit)
   
