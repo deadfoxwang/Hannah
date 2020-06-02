@@ -15,7 +15,7 @@ description: 課堂無邊界 停課不停學
 ### [停課不停學](https://sites.google.com/cpswts.edu.hk/homelearning/%E5%81%9C%E8%AA%B2%E4%B8%8D%E5%81%9C%E5%AD%B8) ***功課***
 #### 本周嘉小停課期家課欄
 
-> [6月1日](https://docs.google.com/document/d/1WErZNhV3T7KwlUP5qHZzjgCB7mRAvKaHbTIatWGqIoc/edit)
+> [6月1日](https://docs.google.com/document/d/1WErZNhV3T7KwlUP5qHZzjgCB7mRAvKaHbTIatWGqIoc/edit) / [6月2日](https://docs.google.com/document/d/16k6uoZavpX8uC_EgRB6RmP2oLvSFz3fZ4Vwgfn7hIjc/edit)  
 
 
 <details>
