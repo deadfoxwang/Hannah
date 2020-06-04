@@ -16,8 +16,8 @@ description: 課堂無邊界 停課不停學
 #### 本周嘉小停課期家課欄
 
 > [P2 2nd Term Dict 2 NEW 视频](https://drive.google.com/file/d/1EBM8YtkRHjCh6U6iufpDVcejS83rrdn1/view)
-> [Dictation sheet](https://drive.google.com/file/d/1NvvdkfXb1CYsAsnTSXVbrOcm06YHMcSK/view)
-> [二年級中文默書範圍](https://drive.google.com/file/d/1EhUg7adpohUJzJ9B389yig7-PpxSZi7g/view)
+ /  [Dictation sheet](https://drive.google.com/file/d/1NvvdkfXb1CYsAsnTSXVbrOcm06YHMcSK/view)
+ /  [二年級中文默書範圍](https://drive.google.com/file/d/1EhUg7adpohUJzJ9B389yig7-PpxSZi7g/view)
 
 > [6月1日](https://docs.google.com/document/d/1WErZNhV3T7KwlUP5qHZzjgCB7mRAvKaHbTIatWGqIoc/edit) / [6月2日](https://docs.google.com/document/d/16k6uoZavpX8uC_EgRB6RmP2oLvSFz3fZ4Vwgfn7hIjc/edit)  / [6月3日]  / [6月4日](https://docs.google.com/document/d/1Bqv8WWE6hKMGgUWKZyNQcY5Tss9dwtxy16iW5yEQC-Y/edit)  
 
