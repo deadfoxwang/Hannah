@@ -19,11 +19,14 @@ description: 課堂無邊界 停課不停學
  /  [Dictation sheet](https://drive.google.com/file/d/1NvvdkfXb1CYsAsnTSXVbrOcm06YHMcSK/view)
  /  [二年級中文默書範圍](https://drive.google.com/file/d/1EhUg7adpohUJzJ9B389yig7-PpxSZi7g/view)
 
-> [6月1日](https://docs.google.com/document/d/1WErZNhV3T7KwlUP5qHZzjgCB7mRAvKaHbTIatWGqIoc/edit) / [6月2日](https://docs.google.com/document/d/16k6uoZavpX8uC_EgRB6RmP2oLvSFz3fZ4Vwgfn7hIjc/edit)  / [6月3日]  / [6月4日](https://docs.google.com/document/d/1Bqv8WWE6hKMGgUWKZyNQcY5Tss9dwtxy16iW5yEQC-Y/edit)  / [6月5日](https://docs.google.com/document/d/18liruYmWxUFjzFpsSbOK1BvKgFxSh8wAB6OKsDvtcP4/edit)  
+> ####[6月8-12日 1-3年級溫習周 (教學影片重溫) ](https://docs.google.com/document/d/1fK7XHVopFfrgCIgM8_NemB4rzoouKTo4ssZCr1EMI8s/edit)
 
 
 <details>
 <summary>展開-昔日嘉小停課期家課欄</summary>
+ 
+ > [6月1日](https://docs.google.com/document/d/1WErZNhV3T7KwlUP5qHZzjgCB7mRAvKaHbTIatWGqIoc/edit) / [6月2日](https://docs.google.com/document/d/16k6uoZavpX8uC_EgRB6RmP2oLvSFz3fZ4Vwgfn7hIjc/edit)  / [6月3日](https://docs.google.com/document/d/1nle85zVyYjQ99P1btn4kBTU_NCmHFAwe5pQAU3gcAA4/edit)  / [6月4日](https://docs.google.com/document/d/1Bqv8WWE6hKMGgUWKZyNQcY5Tss9dwtxy16iW5yEQC-Y/edit)  / [6月5日](https://docs.google.com/document/d/18liruYmWxUFjzFpsSbOK1BvKgFxSh8wAB6OKsDvtcP4/edit)  
+
   
   > [5月25日](https://docs.google.com/document/d/1JBcp5_eXSUBa5jy_7i36jIxeTb1K79eVfXfucMda1so/edit) / [5月26日](https://docs.google.com/document/d/1F7NKLPh5pMkJmlCl3WMCHzNpGZ8tQ3FBbUPCwH8-w1Q/edit)  / [5月27日](https://docs.google.com/document/d/142zcJfwc_nIjshro3FKwdX7uWHeVnB5ucR_JsdPIgfc/edit)  / [5月28日](https://docs.google.com/document/d/1H_ydzXFVPqc4gOeigl2uplyovL4S-sVkHwzk6Bh49YY/edit)  / [5月29日](https://docs.google.com/document/d/19nXQo7ufIfi9iUPCAOA-DtDQww4TGsKND0E6gfWPsiw/edit) 
 
