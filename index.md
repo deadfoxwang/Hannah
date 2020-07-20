@@ -10,6 +10,8 @@ description: 課堂無邊界 停課不停學
 #### [齊齊做運動抗疫](https://sites.google.com/cpswts.edu.hk/homelearning/%E9%BD%8A%E9%BD%8A%E5%81%9A%E9%81%8B%E5%8B%95%E6%8A%97%E7%96%AB)  /  [中文科](https://sites.google.com/cpswts.edu.hk/homelearning/%E4%B8%AD%E6%96%87%E7%A7%91)  /  [ENGLISH](https://sites.google.com/cpswts.edu.hk/homelearning/english)  /  [數學科](https://sites.google.com/cpswts.edu.hk/homelearning/%E6%95%B8%E5%AD%B8%E7%A7%91)  /  [常識科](https://sites.google.com/cpswts.edu.hk/homelearning/%E5%B8%B8%E8%AD%98%E7%A7%91)  /  [好學不倦](https://sites.google.com/cpswts.edu.hk/homelearning/%E5%A5%BD%E5%AD%B8%E4%B8%8D%E5%80%A6)  /  [好片推介](https://sites.google.com/cpswts.edu.hk/homelearning/%E5%A5%BD%E7%89%87%E6%8E%A8%E4%BB%8B)
 
 * * *
+## [停課不停學(7月20日-23日)](https://docs.google.com/document/d/1JMhYAgDd4fAtaJM4kpelnR7TwpUk_V2xESreRDTt9HQ/edit) ***功課***
+
 
 ### [停課期間嘉小最新消息](https://sites.google.com/cpswts.edu.hk/homelearning/%E9%A6%96%E9%A0%81) ***通告***
 ### [停課不停學](https://sites.google.com/cpswts.edu.hk/homelearning/%E5%81%9C%E8%AA%B2%E4%B8%8D%E5%81%9C%E5%AD%B8) ***功課***
