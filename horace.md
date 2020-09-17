@@ -7,6 +7,12 @@ description: 課堂無邊界 停課不停學
 
 * * *
 
+## [高班學習活動第三週](https://drive.google.com/drive/folders/1Bb4p1vqFIbIUJzJcxO6Wja7VoHOIJsLc?usp=sharing)
+## [高班學習活動第二週](https://drive.google.com/drive/u/3/folders/1KHV4mY8V_JhpgRErOcgYMACQhy4ftKuF)
+## [高班學習活動第一週](https://drive.google.com/drive/folders/15-GHGBX9B4Ac0iN-NrlD-j_1SfIGML9R?usp=sharing)
+
+* * *
+
 ### [教育資訊台_KGTV](https://kgtv.ephhk.com/)
 ### [《親子抗「疫」曆》](/horace_calendar_pic.html)
 
