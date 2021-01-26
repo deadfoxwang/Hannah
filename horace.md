@@ -7,12 +7,18 @@ description: 課堂無邊界 停課不停學
 
 * * *
 
+## [GetSetgGo BK5 P.44-47 revision2(重新上載)](https://youtu.be/m5gigHhsBpE)
+## [Wow it is banana Booklet P.1-2](https://youtu.be/Eh4gjSgBxVo)
+## [K3 Fruitman art activity](https://youtu.be/-ysYYuHcDcA)
+## [高班第二十一週課件(英文週)(18.1.21-22.1.21)](https://drive.google.com/drive/folders/18BnQ4YFGfwk0NtgsgqFN766cEHuIP9K7?usp=sharing)
 ## [高班學習活動第二十週](https://drive.google.com/drive/folders/1tUbWvfLU-s8O1D_EJSx9NIQMq_8jtwrC?usp=sharing)
+
+## ================================
+
 ## [高班學習活動第十九週](https://drive.google.com/drive/folders/1fq5uYO4Fuq68s0Aa4WbFqN29fch1l8Qt?usp=sharing)
 ## [高班學習活動第十六週](https://drive.google.com/drive/folders/1vk6BcRV3oakxUMhzunvK8kVijWqpG-3j?usp=sharing)
 ## [Get Set Go ACBK5 Unit 10](https://youtu.be/93fJ-k1xD-k)
 
-## ================================
 
 ## [高班學習活動第十五週](https://drive.google.com/drive/folders/1AWwGDdKrinmE3BL4_XmmpwHexXpFctW9?usp=sharing)
 ## [高班學習活動第十四週](https://drive.google.com/drive/folders/1JxdCSM8kxMMWO-TFA7zLz_ezJTH80YXZ?usp=sharing)
