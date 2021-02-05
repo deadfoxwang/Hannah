@@ -7,6 +7,13 @@ description: 課堂無邊界 停課不停學
 
 * * *
 
+## [高班第二十三週課件(新年篇)(1.2.21-5.2.21)](https://drive.google.com/drive/folders/1bBRH_0i_aIN318Mc1ZrQY6GcyDUFR6qz?usp=sharing)
+
+## [高班第二十二週課件(英文週)(18.1.21-22.1.21)](https://drive.google.com/drive/folders/1lnCL5G1YFjQZTI_wLjHSoq6NkXNMvoPq?usp=sharing)
+## [Wow it is banana Booklet P.3-6](https://www.youtube.com/watch?v=WdJ_rSKHqdI&feature=youtu.be)
+
+## =================================
+
 ## [GetSetgGo BK5 P.44-47 revision2(重新上載)](https://youtu.be/m5gigHhsBpE)
 ## [Wow it is banana Booklet P.1-2](https://youtu.be/Eh4gjSgBxVo)
 ## [K3 Fruitman art activity](https://youtu.be/-ysYYuHcDcA)
