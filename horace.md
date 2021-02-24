@@ -7,6 +7,8 @@ description: 課堂無邊界 停課不停學
 
 * * *
 
+## [高班第二十三週課件(古利和古拉)(22.2.21-26.2.21)](https://drive.google.com/drive/folders/129YVpMr8voS52nW6VDPg2OO_dCcug4iM?usp=sharing)
+
 ## [高班第二十三週課件(新年篇)(1.2.21-5.2.21)](https://drive.google.com/drive/folders/1bBRH_0i_aIN318Mc1ZrQY6GcyDUFR6qz?usp=sharing)
 
 ## [高班第二十二週課件(英文週)(18.1.21-22.1.21)](https://drive.google.com/drive/folders/1lnCL5G1YFjQZTI_wLjHSoq6NkXNMvoPq?usp=sharing)
